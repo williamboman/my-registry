@@ -1,0 +1,14 @@
+---
+name: git-recent
+description: See your latest local git branches, formatted real fancy.
+homepage: https://www.npmjs.com/package/git-recent
+categories: []
+languages: []
+licenses:
+  - MIT
+
+source:
+  id: pkg:npm/git-recent@2.0.4
+
+bin:
+  git-recent: npm:git-recent

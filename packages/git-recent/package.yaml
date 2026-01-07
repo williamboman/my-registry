@@ -2,8 +2,8 @@
 name: git-recent
 description: See your latest local git branches, formatted real fancy.
 homepage: https://www.npmjs.com/package/git-recent
-categories: []
 languages: []
+categories: []
 licenses:
   - MIT
 
